@@ -16,4 +16,4 @@
 
 我们希望本程序是有用的，但是我们不保证它能用，不保证它好用，我们不提供任何保证。
 
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=plastic&logo=LISENCE&logoColor=%23000000&logoSize=auto&label=GPL%202.0&labelColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/LISENCE-GPL 2.0))
