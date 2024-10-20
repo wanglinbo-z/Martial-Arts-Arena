@@ -15,3 +15,5 @@
 本程序是一个自由软件，你可以重新分发它，可以修改它，但要遵守 GPL 2.0 版本或者后续其他版本。
 
 我们希望本程序是有用的，但是我们不保证它能用，不保证它好用，我们不提供任何保证。
+
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=plastic&logo=LISENCE&logoColor=%23000000&logoSize=auto&label=GPL%202.0&labelColor=%23FFFFFF)
